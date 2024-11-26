@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+src/
+|-- components/
+|   |-- Dashboard.js
+|    |-- 1834 EnhancedRoleTable.js
+|    |--2772 EnhancedTable.js
+|    |--914 Navbar.js
+|    |-- 2787 Permissions.js
+|    |-- 680 RoleFilter.js
+|    |-- 542 RoleSearch.js
+|    |-- Modals/
+|       |-- AddEditUserModal.js
+|       |-- AddEditRoleModal.js
+|-- pages/
+|   |-- Users.js
+|   |-- Roles.js
+|-- services/
+|   |-- api.js
+|-- App.js
+|-- index.js
+|--db.js

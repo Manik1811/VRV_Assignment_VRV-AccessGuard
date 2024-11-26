@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "name": "Krishna",
+      "email": "krish1811@gmail.com",
+      "role": "Boss",
+      "id": "f0cc"
+    },
+    {
+      "id": "cb03",
+      "name": "Deepak Adhikari",
+      "email": "dev4522@gmail.com",
+      "role": "Admin"
+    },
+    {
+      "id": "208e",
+      "name": "Arjun",
+      "email": "Arjun23@gmail.com",
+      "role": "Editor"
+    },
+    {
+      "id": "1eb0",
+      "name": "Parth Dey",
+      "email": "parth45@gmail.com",
+      "role": "Editor"
+    },
+    {
+      "id": "24e6",
+      "name": "Shruti",
+      "email": "Sru78@gmail.com",
+      "role": "Employee"
+    },
+    {
+      "id": "bb8d",
+      "name": "Tuhin Das",
+      "email": "tuhin67@gmail.com",
+      "role": "Viewer"
+    }
+  ],
+  "roles": [
+    {
+      "id": "0",
+      "name": "Boss",
+      "permissions": [
+        "Read",
+        "Write",
+        "Delete"
+      ]
+    },
+    {
+      "id": "1",
+      "name": "Admin"
+    },
+    {
+      "id": "5",
+      "name": "Employee"
+    },
+    {
+      "id": "2",
+      "name": "Read"
+    },
+    {
+      "id": "3",
+      "name": "Write"
+    },
+    {
+      "id": "4",
+      "name": "Viewer"
+    }
+  ]
+}

@@ -16,6 +16,7 @@ Frontend: React, Material-UI for a responsive and user-friendly interface.
 Backend: Node.js, Express for handling API requests and managing role/permission data.
 Database: MongoDB (or SQL-based database depending on your system’s requirements) to store user roles, permissions, and logs.
 Authentication: JSON Web Tokens (JWT) or OAuth 2.0 for secure user authentication and session management.
+
 Project Objectives:
 
 Security: Ensuring that sensitive data and resources are protected and only accessible to users with the proper permissions.

@@ -10,6 +10,7 @@ User Access Control: Grant and revoke access based on defined roles, ensuring th
 Permissions Management: Define and manage permissions for each role, specifying the actions users are allowed to perform within the system.
 Audit and Reporting: Maintain logs of role assignments, changes, and access events to track and review system activity for compliance and security audits.
 User-Friendly Interface: Intuitive and easy-to-navigate user interface for administrators to manage roles, users, and permissions efficiently.
+
 Technologies Used:
 
 Frontend: React, Material-UI for a responsive and user-friendly interface.
